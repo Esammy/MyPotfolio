@@ -44,7 +44,8 @@ Remote/On-site
 
 ---
 
-## Projects  [publicly available project:] (https://github.com/Esammy?tab=repositories)
+## Projects 
+Some of the projects I have worked on are: 
 
 ### **1. Android Malware Detection**  
 - **Description**: Developed a robust malware detection system using a fusion of **Random Forest** and **Gradient Boost** algorithms.  
@@ -72,6 +73,8 @@ Remote/On-site
 - **Technologies**: Python, NumPy, Matplotlib  
 - **Outcome**: Contributed to the development of an efficient image compression technique.  
 
+##### Other projects can be seen in my [repository](https://github.com/Esammy?tab=repositories). 
+###### **Note:** <i>Most of my works are private, hence no permission to link them here</i>
 ---
 
 ## Certifications  
