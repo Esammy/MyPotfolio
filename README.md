@@ -44,25 +44,22 @@ What I do/did includes:
 
 ---
 
-## Projects  
+## Projects  [publicly available project:] (https://github.com/Esammy?tab=repositories)
 
 ### **1. Android Malware Detection**  
 - **Description**: Developed a robust malware detection system using a fusion of **Random Forest** and **Gradient Boost** algorithms.  
 - **Technologies**: Python, Scikit-learn, Ensemble Learning  
-- **Outcome**: Achieved high accuracy in detecting and neutralizing malware threats, enhancing digital security.  
-- [GitHub Link](#)  
+- **Outcome**: Achieved high accuracy in detecting and neutralizing malware threats, enhancing digital security.
 
 ### **2. Spyware Detection**  
 - **Description**: Spearheaded a project to optimize spyware detection algorithms using **Particle Swarm Optimization (PSO)**.  
 - **Technologies**: Python, PSO, Machine Learning  
 - **Outcome**: Improved detection capabilities by fine-tuning machine learning models, resulting in enhanced cybersecurity measures.  
-- [GitHub Link](#)  
 
 ### **3. University Assistant Chatbot**  
 - **Description**: Built a chatbot powered by **Artificial Neural Networks (ANN)** to handle queries and provide personalized responses for college students.  
 - **Technologies**: Python, TensorFlow, NLP  
-- **Outcome**: Enabled seamless interaction within the college community, improving communication efficiency.  
-- [GitHub Link](#)  
+- **Outcome**: Enabled seamless interaction within the college community, improving communication efficiency.
 
 ### **4. Image Processing Application**  
 - **Description**: Developed a website for image manipulation, including RGB channel adjustments and other transformations.  
