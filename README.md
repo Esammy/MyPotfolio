@@ -27,7 +27,7 @@ Skilled in data preprocessing, feature engineering, and model optimization, with
 ## Professional Experience  
 
 ### **Machine Learning Consultant**
-**Self-Emp** | Remote/On-site
+Remote/On-site
 What I do/did includes: 
 
 - Concultation for firms/organization.
@@ -65,13 +65,12 @@ What I do/did includes:
 - **Description**: Developed a website for image manipulation, including RGB channel adjustments and other transformations.  
 - **Technologies**: Python, OpenCV, Flask  
 - **Outcome**: Provided users with an intuitive platform for image editing and analysis.  
-- [GitHub Link](#)  
+- [GitHub Link](https://github.com/Esammy/Image-processing)  
 
 ### **5. Research: Image Compression using Singular Value Decomposition (SVD)**  
 - **Description**: Assisted in a research project focused on applying **SVD** for image compression.  
 - **Technologies**: Python, NumPy, Matplotlib  
 - **Outcome**: Contributed to the development of an efficient image compression technique.  
-- [GitHub Link](#)  
 
 ---
 
