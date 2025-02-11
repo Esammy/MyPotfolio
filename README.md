@@ -28,7 +28,7 @@ Skilled in data preprocessing, feature engineering, and model optimization, with
 
 ### **Machine Learning Consultant**
 Remote/On-site
-What I do/did includes: 
+###### What I do/did includes: 
 
 - Concultation for firms/organization.
 - Designed, and trained machine learning models
@@ -97,7 +97,7 @@ Federal University of Technology, Minna | 2016 – 2023
 
 ## Contact Me  
 - **Email**: [egwusamuel2015@gmail.com](mailto:egwusamuel2015@gmail.com)  
-- **LinkedIn**: [Samuel David Egwu](https://www.linkedin.com/in/your-linkedin-profile)  
-- **GitHub**: [SamuelDavidEgwu](https://github.com/your-github-username)  
+- **LinkedIn**: [Samuel David Egwu](www.linkedin.com/in/samuel-david-egwu-aa6484184/)  
+- **GitHub**: [SamuelDavidEgwu](https://github.com/esammy)  
 
 ---
