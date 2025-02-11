@@ -1,4 +1,4 @@
-# Samuel David Egwu  
+# Egwu David Samuel
 **AI/ML Developer | Data Scientist | Passionate about Building Intelligent Systems**  
 
 [![Email](https://img.shields.io/badge/Email-egwusamuel2015%40gmail.com-blue)](mailto:egwusamuel2015@gmail.com)
@@ -45,7 +45,7 @@ Remote/On-site
 ---
 
 ## Projects 
-Some of the projects I have worked on are: 
+Some of the projects I have worked on includes: 
 
 ### **1. Android Malware Detection**  
 - **Description**: Developed a robust malware detection system using a fusion of **Random Forest** and **Gradient Boost** algorithms.  
