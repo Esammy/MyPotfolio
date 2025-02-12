@@ -1,5 +1,5 @@
 # Egwu David Samuel
-**AI/ML Developer | Data Scientist | Passionate about Building Intelligent Systems**  
+**AI/ML Developer | Data Scientist | IT Support**  
 
 [![Email](https://img.shields.io/badge/Email-egwusamuel2015%40gmail.com-blue)](mailto:egwusamuel2015@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20David%20Egwu-blue)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/samuel-david-egwu-aa6484184/))
@@ -8,7 +8,7 @@
 ---
 
 ## About Me  
-I am a passionate **AI/ML Developer** and **Data Scientist** with hands-on experience in designing, developing, and deploying machine learning models and data-driven solutions. My expertise lies in **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Data Analysis**. I am skilled in Python, TensorFlow, Scikit-learn, and other AI/ML tools, and I have a proven track record of delivering impactful solutions in both academic and professional settings.
+Passionate **AI/ML Developer** and **Data Scientist** with hands-on experience in designing, developing, and deploying machine learning models and data-driven solutions. My expertise lies in **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Data Analysis**. I am skilled in Python, TensorFlow, Scikit-learn, and other AI/ML tools, and I have a proven track record of delivering impactful solutions in both academic and professional settings.
 
 Skilled in data preprocessing, feature engineering, and model optimization, with a proven ability to translate complex data into actionable insights. Experienced in leveraging Excel and SQL for data analysis and visualization. Passionate about applying cutting-edge AI technologies to solve real-world problems and drive innovation. Eager to contribute my technical expertise and analytical mindset to a forward-thinking organization in the AI and data science domain.
 
